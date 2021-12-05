@@ -3,6 +3,7 @@ from django.http import HttpResponse
 import random
 
 # Create your views here.
+#Hello!
 
 def home(request):
     #return HttpResponse('Hello there friend!')
